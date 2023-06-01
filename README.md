@@ -19,8 +19,6 @@ The platform operates under a subscription model, efficiently managed by a relia
 - Tailwind CSS
 - MongoDB
 - Diecast API
+- Stripe API
 
 We look forward to enhancing your golfing experience with GolfMaster.
-
-
-Joseph D Rivera
